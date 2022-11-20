@@ -2,9 +2,12 @@
 Repositório para armazenamento de documentos, resumos, artigos, etc.
 
 ## Conteúdo
-1. Clinica Médica
-2. Psiquiatria
-3. Habilidades de comunicação
+1. Anatomia Patológica
+2. Emergência Cirurgica
+3. Emergência Clínica
+4. Habilidades de Comunicação
+5. Medicina Legal
+6. Psiquiatria
 
 
 ## Colaboradores
