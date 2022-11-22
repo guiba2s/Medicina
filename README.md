@@ -8,8 +8,8 @@ Repositório para armazenamento de documentos, resumos, artigos, etc.
 4. Habilidades de Comunicação
 5. Medicina Legal
 6. Psiquiatria
-    -Aula 1 - OK
-    -Aula 2 - OK
+    Aula 1 - OK
+    Aula 2 - OK
 
 
 ## Colaboradores
