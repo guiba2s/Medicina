@@ -11,7 +11,7 @@ Repositório para armazenamento de documentos, resumos, artigos relacionados a m
     2. Problema 2 (x)
 
 3. Farmacologia
-    1. Aula 1 - Resumo Glória (x)
+    1. Aula 1 Choque Cardiogênico - Resumo Glória (x) e Guilherme (x)
     2. Aula 2 - Resumo Glória (x)
     3. Aula 3 - Resumo Glória (x)
 
